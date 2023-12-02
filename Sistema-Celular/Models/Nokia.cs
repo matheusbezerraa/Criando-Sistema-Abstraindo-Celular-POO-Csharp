@@ -1,6 +1,10 @@
-namespace DesafioPOO.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-    
+namespace Sistema_Celular.Models
+{
     public class Nokia : Smartphone
     {
         
@@ -14,4 +18,5 @@ namespace DesafioPOO.Models;
         {
             Console.WriteLine($"Instalando {nomeApp} na Nokia...");
         }
+    }
 }

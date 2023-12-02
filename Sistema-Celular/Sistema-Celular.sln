@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioPOO", "DesafioPOO.csproj", "{951474DA-3DC9-4CE1-83D1-6A36ADD87811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistema-Celular", "Sistema-Celular.csproj", "{88D1E530-F062-4042-9536-4B7BA76BBA6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{951474DA-3DC9-4CE1-83D1-6A36ADD87811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{951474DA-3DC9-4CE1-83D1-6A36ADD87811}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{951474DA-3DC9-4CE1-83D1-6A36ADD87811}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{951474DA-3DC9-4CE1-83D1-6A36ADD87811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D1E530-F062-4042-9536-4B7BA76BBA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D1E530-F062-4042-9536-4B7BA76BBA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D1E530-F062-4042-9536-4B7BA76BBA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D1E530-F062-4042-9536-4B7BA76BBA6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {32837E3A-C696-4152-B0E6-246A6658E8B5}
+		SolutionGuid = {A5F96A71-6383-476F-B8B5-8F5178AA83DB}
 	EndGlobalSection
 EndGlobal
